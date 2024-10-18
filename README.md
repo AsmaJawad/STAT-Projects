@@ -7,3 +7,4 @@ This repository contains a variety of examples covering major statistics topics.
 Topics covered: 
 - Probabilities
 - Probability Distributions
+- Confidence Intervals
